@@ -8,17 +8,17 @@ Espero que les sea de ayuda, y muchos éxitos. 😀
 
 * [**Prácticas Resueltas (con explicaciones) + Modelos de parciales + Trabajo integrador**](https://github.com/MatiasGuaymas/CPLP)
 
-* [**Teoría**]()
+* [**Teoría**](https://github.com/MatiasGuaymas/5to-Semestre/tree/main/CPLP/Teoria)
 
-* [**EMTs + Examenes teóricos**]()
+* [**EMTs + Examenes teóricos**](https://github.com/MatiasGuaymas/5to-Semestre/tree/main/CPLP/Parciales/Teoria)
 
 ## INGE 2
 
-* [**Proyecto Alquiler Express**]()
+* [**Proyecto Alquiler Express**](https://github.com/MatiasGuaymas/INGE-2)
 
-* [**Teoría**]()
+* [**Teoría**](https://github.com/MatiasGuaymas/5to-Semestre/tree/main/INGE2/Teoria)
 
-* [**Finales + Examenes teóricos**]()
+* [**Finales + Examenes teóricos**](https://github.com/MatiasGuaymas/5to-Semestre/tree/main/INGE2/Teoricos-Finales)
 
 ## MAT 3
 
@@ -28,9 +28,9 @@ Espero que les sea de ayuda, y muchos éxitos. 😀
 
 * [**Prácticas Resueltas (con explicaciones) + Modelos de parciales + Resúmenes**](https://github.com/MatiasGuaymas/OO2)
 
-* [**Teoría**]()
+* [**Teoría**](https://github.com/MatiasGuaymas/5to-Semestre/tree/main/OO2/Teoria)
 
-* [**Finales + Examenes teóricos + Autoevaluaciones**]()
+* [**Finales + Examenes teóricos + Autoevaluaciones**](https://github.com/MatiasGuaymas/5to-Semestre/tree/main/OO2/Parciales/Teoria)
 
 ## Cómo contribuir
 * Darle estrella (Star) al repositorio.
